@@ -1,0 +1,8 @@
+{
+    
+        "host": "localhost",
+        "dialect": "sqlite",
+        "storage": "./tracking"
+       
+    
+}
